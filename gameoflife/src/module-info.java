@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nrgri
+ *
+ */
+module gameoflife {
+}
